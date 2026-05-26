@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hello there! 👋 I'm Tejas V Bhat
 
-<!--
-**tej2612/tej2612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://linkedin.com/in/tejas-bhat">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:tejasbhat2612@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/tej2612">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a final-year CS Engineer (AIML) at PES University, Bangalore, specialising in
+Graph ML, Knowledge Graphs, Retrieval Systems, LLMs, and Agentic AI.
+
+Passionate about building AI systems that go beyond prototypes and solve real problems —
+from GNN-based knowledge graph retrieval to multi-agent orchestration to multimodal RAG.
+I've published 5 peer-reviewed papers in these areas across venues including ICCAI, ICTIS, and ICIVC.
+
+---
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+---
+
+## 📄 Publications
+
+| Year | Paper | Venue |
+|------|-------|-------|
+| 2026 | Leveraging Multimodal RAGs to Strengthen Disaster Response Approaches | ICCAI 2026 |
+| 2025 | BiasNet: A Contrastive GNN Framework for Political Stance Detection | FTNCT 2025 |
+| 2025 | [Beyond Loyalty and Betrayal: A KG-Enhanced RAG System for Crime Film Analysis](https://doi.org/10.1007/978-981-96-8898-2_39) | ICTIS 2025 |
+| 2025 | [Advancing Indian Sign Language Recognition with Meta Learning](https://link.springer.com/chapter/10.1007/978-3-032-10664-3_15) | ICIVC 2025 |
+| 2024 | [Optimal Delivery Positioning Algorithm Using Clustering](https://doi.org/10.1109/ICCSC62074.2024.10617140) | ICCSC 2024 |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tej2612&show_icons=true&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tej2612&layout=compact&theme=dark&hide_border=true" width="48%" />
+</p>
