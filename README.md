@@ -17,9 +17,9 @@
 ## 🚀 About Me
 
 I'm a final-year CS Engineer (AIML) at PES University, Bangalore, specialising in
-Graph ML, Knowledge Graphs, Retrieval Systems, LLMs, and Agentic AI.
+MAchine Learning, Generative AI, Graph ML, Knowledge Graphs, Retrieval Systems, LLMs, and Agentic AI.
 
-Passionate about building AI systems that go beyond prototypes and solve real problems —
+Passionate about building AI systems that go beyond prototypes and solve real problems: 
 from GNN-based knowledge graph retrieval to multi-agent orchestration to multimodal RAG.
 I've published 5 peer-reviewed papers in these areas across venues including ICCAI, ICTIS, and ICIVC.
 
@@ -28,7 +28,6 @@ I've published 5 peer-reviewed papers in these areas across venues including ICC
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
@@ -46,9 +45,9 @@ I've published 5 peer-reviewed papers in these areas across venues including ICC
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-F97316?style=for-the-badge&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 ---
 
 ## 📄 Publications
