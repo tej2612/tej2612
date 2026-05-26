@@ -17,7 +17,7 @@
 ## 🚀 About Me
 
 I'm a final-year CS Engineer (AIML) at PES University, Bangalore, specialising in
-MAchine Learning, Generative AI, Graph ML, Knowledge Graphs, Retrieval Systems, LLMs, and Agentic AI.
+Machine Learning, Generative AI, Graph ML, Knowledge Graphs, Retrieval Systems, LLMs, and Agentic AI.
 
 Passionate about building AI systems that go beyond prototypes and solve real problems: 
 from GNN-based knowledge graph retrieval to multi-agent orchestration to multimodal RAG.
