@@ -21,7 +21,7 @@ Machine Learning, Generative AI, Graph ML, Knowledge Graphs, Retrieval Systems, 
 
 Passionate about building AI systems that go beyond prototypes and solve real problems: 
 from GNN-based knowledge graph retrieval to multi-agent orchestration to multimodal RAG.
-I've interned as an ML Research Intern at Apple and published 5 peer-reviewed papers
+I've interned as an ML Research Intern at Apple and published 5 peer-reviewed papers.
 ---
 
 ## 🛠️ Tech Stack
